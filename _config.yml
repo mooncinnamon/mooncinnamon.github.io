@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://cinnamon.noslp.net"
+url: "https://mooncinnamon.github.io/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -26,7 +26,7 @@ description: "A virtual proof that name is awesome!"
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - ChatBot : "http://cinnamon.noslp.net/2017-12-17-discord-bot/"
+    - ChatBot : "https://mooncinnamon.github.io//2017-12-17-discord-bot/"
     - GitHub Pages: "https://github.com/mooncinnamon/"
   Author's Twitter: "https://twitter.com/Cinnamon_dev"
 
