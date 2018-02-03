@@ -22,30 +22,32 @@ Including another URLconf
 
 무려 15줄에 이르는 긴 주석이다. 해석해보면
 
+```
 """[프로젝트명] url 설정법
-
-
 
 'urlpatterns' 리스트는 url을 view로 routing  합니다. 자세한 내용은 아래 url을 참조해 주세요.
 
-​	https://docs.djangoproject.com/en/2.0/topics/http/urls/
+	https://docs.djangoproject.com/en/2.0/topics/http/urls/
 
 예시:
 
 Funtinon Views:
 
- 	1. from my_app import views 를 import 하세요.
- 	2. urlpatterns에 URL을 추가하세요. ex) path( ' ', views.home, name='home' )
+1. from my_app import views 를 import 하세요.
+2. urlpatterns에 URL을 추가하세요. ex) path( ' ', views.home, name='home' )
 
 Class-bases view:
 
- 	1. from opther_app.view import Home을 import 하세요.
- 	2. urlpatterns에 URL을 추가하세요. ex) path( ' ', Home.as_view( ), name='home')
+1. from opther_app.view import Home을 import 하세요.
+2. urlpatterns에 URL을 추가하세요. ex) path( ' ', Home.as_view( ), name='home')
 
 Including anoter URLconf
 
- 	1. from django.urls import include, path 를 import function에 import 하세요.
- 	2. urlpatterns에 URL을 추가하세요: path( ' blog/ ', include('blog.urls') )
+1. from django.urls import include, path 를 import function에 import 하세요.
+2. urlpatterns에 URL을 추가하세요: path( ' blog/ ', include('blog.urls') )
+
+"""
+```
 
 
 
