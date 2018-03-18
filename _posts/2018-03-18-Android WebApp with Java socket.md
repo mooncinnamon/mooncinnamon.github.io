@@ -12,4 +12,4 @@ Android 에서 Bridge가 헷갈려서 단순히 만들어본 예제 소켓서버
 
 작동
 
-![ChessSocket](/Users/moonyoubin/Blog/img/ChessSocket.gif)
+![ChessSocket](../img/ChessSocket.gif)
