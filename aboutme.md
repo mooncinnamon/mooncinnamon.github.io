@@ -100,4 +100,5 @@ programmer
 - Telegram ERP ChatBot
 - Openvpn + stunnel + docker
 - Windows IP Changer (Static < > DHCP)
+- ChatterBox library Django example (by. [JungWinter](https://github.com/JungWinter) library) - [link](https://github.com/mooncinnamon/chatterbox-django)
 
