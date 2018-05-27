@@ -15,3 +15,30 @@ Resource - URI
 Verb - HTTP METHOD
 
 Representations
+
+
+
+Rest의 특징
+
+Uniform
+
+Stateless
+
+Cacheable
+
+Self-descriptiveness
+
+Client-Server
+
+계층형
+
+
+
+Rest anti patern
+
+Get/Post 터널링
+
+no Self-descriptiveness 
+
+no HTTP Response code
+
