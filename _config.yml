@@ -108,7 +108,7 @@ url-pretty: "mooncinnamon.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "gyepiyi-hwabunsog"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-112705093-1"
